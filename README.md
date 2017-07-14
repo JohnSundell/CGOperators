@@ -11,7 +11,7 @@
     </a>
 </p>
 
-Welcome to `CGOperators`, a small Swift framework that enables you to easily manipulate Core Graphic's vector types (`CGPoint`, `CGSize` and `CGVector`) using math operators. It can help you write compact, yet highly readable code when dealing with things like image sizes and frame-based layouts.
+Welcome to `CGOperators`, a small Swift framework that enables you to easily manipulate Core Graphics' vector types (`CGPoint`, `CGSize` and `CGVector`) using math operators. It can help you write compact, yet highly readable code when dealing with things like image sizes and frame-based layouts.
 
 ## Examples
 
