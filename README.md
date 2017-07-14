@@ -49,15 +49,15 @@ physicsWorld.gravity = player.position / 10
 
 ## Installation
 
-**Using CocoaPods**
+**Using [CocoaPods](https://cocoapods.org)**
 
 Add `pod CGOperators` to your `Podfile`
 
-**Using Carthage**
+**Using [Carthage](https://github.com/Carthage/Carthage)**
 
 Add `git "JohnSundell/CGOperators"` to your `Cartfile`
 
-**Using the Swift Package Manager**
+**Using the [Swift Package Manager](https://github.com/apple/swift-package-manager)**
 
 Add `Package(url: "https://github.com/JohnSundell/CGOperators.git, majorVersion: 1)` to your `Package.swift` file.
 
@@ -68,5 +68,5 @@ Run `marathon add https://github.com/JohnSundell/CGOperators.git` on the command
 ## Help, feedback or suggestions?
 
 - [Open an issue](https://github.com/JohnSundell/CGOperators/issues/new) if you need help, if you found a bug, or if you want to discuss a feature request.
-- [Open a PR](https://github.com/JohnSundell/CGOperators/pull/new/master) if you want to make some change to CGOperators.
-- Contact [@johnsundell on Twitter](https://twitter.com/johnsundell) for discussions, news & announcements about CGOperators and other open source projects.
+- [Open a PR](https://github.com/JohnSundell/CGOperators/pull/new/master) if you want to make some change to `CGOperators`.
+- Contact [@johnsundell on Twitter](https://twitter.com/johnsundell) for discussions, news & announcements about `CGOperators` and other open source projects.
