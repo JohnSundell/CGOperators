@@ -4,7 +4,6 @@
  *  Licensed under the MIT license. See LICENSE file.
  */
 
-import Foundation
 import CoreGraphics
 
 /// Protocol used to describe a type as a Core Graphics 2D vector
