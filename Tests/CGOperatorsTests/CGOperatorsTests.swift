@@ -4,7 +4,6 @@
  *  Licensed under the MIT license. See LICENSE file.
  */
 
-import Foundation
 import CoreGraphics
 import XCTest
 import CGOperators
