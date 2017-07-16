@@ -68,7 +68,7 @@ Add `git "JohnSundell/CGOperators"` to your `Cartfile`
 
 **Using the [Swift Package Manager](https://github.com/apple/swift-package-manager)**
 
-Add `Package(url: "https://github.com/JohnSundell/CGOperators.git, majorVersion: 1)` to your `Package.swift` file.
+Add `Package(url: "https://github.com/JohnSundell/CGOperators.git", majorVersion: 1)` to your `Package.swift` file.
 
 **Using [Marathon](https://github.com/JohnSundell/Marathon)**
 
